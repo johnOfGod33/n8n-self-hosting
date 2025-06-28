@@ -1,6 +1,6 @@
 # n8n-self-hosting
 
-> Production-ready self-hosted setup of [n8n](https://n8n.io) using Docker, Traefik, and automatic HTTPS with Let's Encrypt.
+Production-ready self-hosted setup of [n8n](https://n8n.io) using Docker, Traefik, and automatic HTTPS with Let's Encrypt.
 
 ---
 
